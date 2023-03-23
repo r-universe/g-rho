@@ -8,3 +8,13 @@
 	url = https://github.com/g-rho/clustmixtype
 	shallow = true
 	registered = true
+[submodule "hda"]
+	path = hda
+	url = https://github.com/cran/hda
+	shallow = true
+	registered = true
+[submodule "orclus"]
+	path = orclus
+	url = https://github.com/cran/orclus
+	shallow = true
+	registered = true
