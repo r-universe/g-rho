@@ -11,3 +11,6 @@
 [submodule "orclus"]
 	path = orclus
 	url = https://github.com/cran/orclus
+[submodule "xgrove"]
+	path = xgrove
+	url = https://github.com/g-rho/xgrove
